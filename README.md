@@ -12,14 +12,10 @@ I have used 3 principle sources of Data covering the past 3 seasons.
 
 ### Player Level Data
 1. FPL  (Credit to https://github.com/vaastav/Fantasy-Premier-League for the data)
-- 70 660  observations, 64 variables
-
 2. Understat (Web scrapping) - https://understat.com
-- 70 361 observations,  22 variables
 
 ### Team Level Data
 1. FiveThirtyEight (API) - https://projects.fivethirtyeight.com/soccer-api/club/spi_matches.csv
-- 2660 observations, 23 variables
 
 ## Trello board
 - https://trello.com/b/vrNaMqfo/fplpointsprediction
